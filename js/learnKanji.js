@@ -5,7 +5,7 @@ var kanjiData =
         "onyomi" : "FUN",
         "kunyomi": "wa(karu)",
         "meaning": "understand",
-        "mnemonic": "",
+        "mnemonic": "Person bowing received understanding from heaven.",
 
     },
     {
@@ -13,7 +13,7 @@ var kanjiData =
         "onyomi" : "BUN, MON",
         "kunyomi": "ki(ku), ki(koeru)",
         "meaning": "to hear, to listen, to ask",
-        "mnemonic": "",
+        "mnemonic": "Child LISTENING from mother and father",
 
     },
     {
@@ -21,7 +21,7 @@ var kanjiData =
         "onyomi" : "BO",
         "kunyomi": "haha",
         "meaning": "mother",
-        "mnemonic": "",
+        "mnemonic": "MOTHER crying with tears of joy",
 
     },
     {
@@ -29,7 +29,7 @@ var kanjiData =
         "onyomi" : "HOKU",
         "kunyomi": "kita",
         "meaning": "north",
-        "mnemonic": "",
+        "mnemonic": "People running away from NORTH",
 
     },
     {
@@ -37,7 +37,7 @@ var kanjiData =
         "onyomi" : "BOKU, MOKU",
         "kunyomi": "ki, ko",
         "meaning": "tree, wood",
-        "mnemonic": "",
+        "mnemonic": "T-shaped TREE with leaf skirt",
 
     },
     {
@@ -45,7 +45,7 @@ var kanjiData =
         "onyomi" : "HON",
         "kunyomi": "moto",
         "meaning": "book, source, main-",
-        "mnemonic": "",
+        "mnemonic": "Tree is cut to make BOOKS",
 
     },
     {
@@ -53,7 +53,7 @@ var kanjiData =
         "onyomi" : "MAI",
         "kunyomi": "-",
         "meaning": "each, every",
-        "mnemonic": "",
+        "mnemonic": "EVERY person has a mother",
 
     },
     {
@@ -61,7 +61,7 @@ var kanjiData =
         "onyomi" : "MAN, BAN",
         "kunyomi": "-",
         "meaning": "ten thousand, all, many",
-        "mnemonic": "",
+        "mnemonic": "Running in TEN THOUSAND kph",
 
     },
     {
@@ -69,7 +69,7 @@ var kanjiData =
         "onyomi" : "MEI, MYOU",
         "kunyomi": "na",
         "meaning": "name, reputation",
-        "mnemonic": "",
+        "mnemonic": "Tower with a NAME sign below",
 
     },
     {
@@ -77,7 +77,7 @@ var kanjiData =
         "onyomi" : "MOKU",
         "kunyomi": "me",
         "meaning": "eye",
-        "mnemonic": "",
+        "mnemonic": "You need to use your EYE to look through the window",
 
     },
     {
