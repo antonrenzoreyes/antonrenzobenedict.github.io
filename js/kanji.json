@@ -320,5 +320,86 @@ var kanjiData =
         "mnemonic": "How many sticks are there?",
 
     },
+    {
+        "image" : "images/kanji/shou2.gif",
+        "onyomi" : "SHOU",
+        "kunyomi": "suko(shi), suku(nai)",
+        "meaning": "a little",
+        "mnemonic": "smile A LITTLE",
+
+    },
+    {
+        "image" : "images/kanji/den.gif",
+        "onyomi" : "DEN",
+        "kunyomi": "-",
+        "meaning": "Electricity",
+        "mnemonic": "A generator producing ELECTRICITY",
+
+    },
+    {
+        "image" : "images/kanji/shichi.gif",
+        "onyomi" : "SHICHI",
+        "kunyomi": "nana(tsu), nana-, nano-",
+        "meaning": "seven",
+        "mnemonic": "Invert SEVEN",
+
+    },
+    {
+        "image" : "images/kanji/san2.gif",
+        "onyomi" : "SAN",
+        "kunyomi": "mit(tsu), mi-",
+        "meaning": "Three",
+        "mnemonic": "Roman numeral number 3 when rotated at 90",
+
+    },
+    {
+        "image" : "images/kanji/ka3.gif",
+        "onyomi" : "KA",
+        "kunyomi": "hana",
+        "meaning": "flower, blossom",
+        "mnemonic": "a girl holding a FLOWER with his boyfriend",
+
+    },
+    {
+        "image" : "images/kanji/eki.gif",
+        "onyomi" : "EKI",
+        "kunyomi": "-",
+        "meaning": "station",
+        "mnemonic": "train STATION",
+
+    },
+    {
+        "image" : "images/kanji/gyo.gif",
+        "onyomi" : "GYO",
+        "kunyomi": "sakana, uo",
+        "meaning": "fish",
+        "mnemonic": "FISH escaping from the fishing net",
+
+    },
+    {
+        "image" : "images/kanji/sha.gif",
+        "onyomi" : "SHA",
+        "kunyomi": "kuruma",
+        "meaning": "car, wheel",
+        "mnemonic": "A CAR hitting the road",
+
+    },
+    {
+        "image" : "images/kanji/han.gif",
+        "onyomi" : "HAN",
+        "kunyomi": "naka(ba)",
+        "meaning": "half, middle, semi-",
+        "mnemonic": "birthday cake sliced in the MIDDLE",
+
+    },
+    {
+        "image" : "images/kanji/chuu.gif",
+        "onyomi" : "CHUU",
+        "kunyomi": "naka",
+        "meaning": "inner, center, between",
+        "mnemonic": "A bible with a bookmark at the CENTER",
+
+    }
+    
 
 ];
