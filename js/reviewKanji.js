@@ -13,7 +13,7 @@ var kanjiData =
         "onyomi" : "BUN, MON",
         "kunyomi": "ki(ku), ki(koeru)",
         "meaning": "to hear, to listen, to ask",
-        "mnemonic": "",
+        "mnemonic": "Baby Kanji LISTENing from mother and father kanji",
 
     },
     {
@@ -21,7 +21,7 @@ var kanjiData =
         "onyomi" : "BO",
         "kunyomi": "haha",
         "meaning": "mother",
-        "mnemonic": "",
+        "mnemonic": "MOTHER crying with tears of joy",
 
     },
     {
@@ -29,7 +29,7 @@ var kanjiData =
         "onyomi" : "HOKU",
         "kunyomi": "kita",
         "meaning": "north",
-        "mnemonic": "",
+        "mnemonic": "People running away from NORTH",
 
     },
     {
@@ -37,7 +37,7 @@ var kanjiData =
         "onyomi" : "BOKU, MOKU",
         "kunyomi": "ki, ko",
         "meaning": "tree, wood",
-        "mnemonic": "",
+        "mnemonic": "T-shaped TREE with leaf skirt",
 
     },
     {
@@ -45,7 +45,7 @@ var kanjiData =
         "onyomi" : "HON",
         "kunyomi": "moto",
         "meaning": "book, source, main-",
-        "mnemonic": "",
+        "mnemonic": "Tree is cut to make BOOKS",
 
     },
     {
@@ -53,7 +53,7 @@ var kanjiData =
         "onyomi" : "MAI",
         "kunyomi": "-",
         "meaning": "each, every",
-        "mnemonic": "",
+        "mnemonic": "EVERY person has a mother",
 
     },
     {
@@ -61,7 +61,7 @@ var kanjiData =
         "onyomi" : "MAN, BAN",
         "kunyomi": "-",
         "meaning": "ten thousand, all, many",
-        "mnemonic": "",
+        "mnemonic": "Running in TEN THOUSAND kph",
 
     },
     {
