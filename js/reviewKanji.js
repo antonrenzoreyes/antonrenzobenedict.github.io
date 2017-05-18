@@ -77,7 +77,7 @@ var kanjiData =
         "onyomi" : "MOKU",
         "kunyomi": "me",
         "meaning": "eye",
-        "mnemonic": "",
+        "mnemonic": "You need to use your EYE to look through the window",
 
     },
     {
